@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+* + *{
+    margin-top: 1.5em;
+}
+
+header{
+    max-width: 1500px;
+    height: 100px;
+    margin: 0 auto;
+    background-color: #e579e6;
+}
+
+
+
